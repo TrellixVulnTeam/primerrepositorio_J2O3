@@ -5,3 +5,7 @@ background-color: blueviolet;
 .titulo{
     color: yellow;
 }
+
+.resaltado{
+    background-color: aqua;
+}
