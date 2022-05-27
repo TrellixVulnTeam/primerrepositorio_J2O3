@@ -9,3 +9,8 @@ background-color: blueviolet;
 .resaltado{
     background-color: aqua;
 }
+
+.quote{
+    width: 50rem;
+    height: 50rem;
+}
